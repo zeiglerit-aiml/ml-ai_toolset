@@ -26,3 +26,9 @@ unzip -l aiml-observability-stack-fixed.zip
 ```
 
 Before using an archive, inspect its source, dependencies, image references, credentials handling, Terraform plans, and teardown scripts. Treat each extracted artifact as untrusted until reviewed.
+
+## Portfolio ownership
+
+Archival shelf for packaged AI/ML platform examples and a TensorRT-LLM learning script. Archive integrity checks do not certify runtime behavior or security.
+
+Account-wide ownership and cleanup decisions are maintained in the [WSP portfolio repository catalog](https://github.com/zeiglerit-aiml/WSP_Integrated_AI_SDLC_GVC_pl/blob/main/REPOSITORY_CATALOG.md).
